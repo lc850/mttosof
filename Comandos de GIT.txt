@@ -1,0 +1,2 @@
+git init - Inicializa un proyecto en git
+ctrl + L - Limpiar pantalla en git bash

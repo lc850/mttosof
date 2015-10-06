@@ -1,0 +1,10 @@
+git init - Inicializa un proyecto en git
+ctrl + L - Limpiar pantalla en git bash
+
+git status - Verifica los cambios que ha habido en la carpeta del proyecto
+
+git add -A - Agrega todos los archivos que tuvieron cambios
+
+git commit -m "mensaje" - guarda el commit o cambio
+
+git log - Lista los commits relizados

@@ -1,0 +1,41 @@
+commit c05a8a2be8fa4ffffb96e1d7b203b9d8a6c18e02
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 8 17:36:04 2015 -0600
+
+    Color de fondo azul
+
+commit c6bed71e492c8d576639186273091872e8e22066
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 8 17:33:37 2015 -0600
+
+    Pie de página agregado
+
+commit 90539a5c29b4f1a0e74593e7f9ab2dfc804dae26
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 8 17:32:08 2015 -0600
+
+    Imagen agregada
+
+commit 96a96f324efd1a2d5713b28a44e89727aa37e945
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Thu Oct 8 17:29:17 2015 -0600
+
+    Contenido de la pagina
+
+commit 7798550947157a336d6053b51ba904f15304c30a
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Oct 6 17:56:09 2015 -0600
+
+    Titulo de la pagina agregado
+
+commit 92d80ec81b6d29aec2306448d9cab0a3976a474f
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Tue Oct 6 17:39:31 2015 -0600
+
+    Mi pagina en blanco
+
+commit e0b617aa64e9bf5957f4d2d8c29afdf9efb131d0
+Author: Luis Santillan <santillan.itc@gmail.com>
+Date:   Mon Oct 5 17:54:49 2015 -0600
+
+    Agregue un archivo de texto con los comandos basicos de git

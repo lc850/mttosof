@@ -2,4 +2,5 @@ Este es un ejemplo del uso de ramas
 
 Luis Carlos Santillan Hernandez
 
-14/OCT/2015
+14/OCT/2015 Esta es la fecha actual
+Aquí modiqué el archivo.
